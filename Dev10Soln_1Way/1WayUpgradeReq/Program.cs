@@ -17,6 +17,7 @@ namespace TestSolution
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             Console.WriteLine("hhh");
+            Console.WriteLine("dfas");
         }
     }
 }
